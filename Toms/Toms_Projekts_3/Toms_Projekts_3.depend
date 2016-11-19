@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1479468769 source:c:\users\smilicat\documents\github\projekts_3\toms\toms_projekts_3\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdlib.h>
+	<typeinfo>
+

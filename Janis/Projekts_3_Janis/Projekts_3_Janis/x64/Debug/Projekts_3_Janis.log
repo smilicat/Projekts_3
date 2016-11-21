@@ -1,0 +1,5 @@
+﻿  Projekts_3_Janis.cpp
+c:\users\smilicat\documents\github\projekts_3\janis\projekts_3_janis\projekts_3_janis\projekts_3_janis.cpp(279): warning C4101: 'pUtility': unreferenced local variable
+c:\users\smilicat\documents\github\projekts_3\janis\projekts_3_janis\projekts_3_janis\projekts_3_janis.cpp(280): warning C4101: 'pFood': unreferenced local variable
+  Projekts_3_Janis.vcxproj -> C:\Users\smilicat\Documents\GitHub\Projekts_3\Janis\Projekts_3_Janis\x64\Debug\Projekts_3_Janis.exe
+  Projekts_3_Janis.vcxproj -> C:\Users\smilicat\Documents\GitHub\Projekts_3\Janis\Projekts_3_Janis\x64\Debug\Projekts_3_Janis.pdb (Full PDB)

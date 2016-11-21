@@ -1,0 +1,19 @@
+﻿  Projekts_3_Janis.cpp
+c:\users\smilicat\documents\github\projekts_3\janis\projekts_3_janis\projekts_3_janis\projekts_3_janis.cpp(55): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\smilicat\documents\github\projekts_3\janis\projekts_3_janis\projekts_3_janis\projekts_3_janis.cpp(206): error C2614: 'Utility': illegal member initialization: 'Furniture' is not a base or member
+c:\users\smilicat\documents\github\projekts_3\janis\projekts_3_janis\projekts_3_janis\projekts_3_janis.cpp(236): error C2509: 'payment': member function not declared in 'Utility'
+  c:\users\smilicat\documents\github\projekts_3\janis\projekts_3_janis\projekts_3_janis\projekts_3_janis.cpp(179): note: see declaration of 'Utility'
+c:\users\smilicat\documents\github\projekts_3\janis\projekts_3_janis\projekts_3_janis\projekts_3_janis.cpp(240): error C2039: 'unique2': is not a member of 'Utility'
+  c:\users\smilicat\documents\github\projekts_3\janis\projekts_3_janis\projekts_3_janis\projekts_3_janis.cpp(179): note: see declaration of 'Utility'
+c:\users\smilicat\documents\github\projekts_3\janis\projekts_3_janis\projekts_3_janis\projekts_3_janis.cpp(242): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\smilicat\documents\github\projekts_3\janis\projekts_3_janis\projekts_3_janis\projekts_3_janis.cpp(242): error C2227: left of '->getSerial' must point to class/struct/union/generic type
+c:\users\smilicat\documents\github\projekts_3\janis\projekts_3_janis\projekts_3_janis\projekts_3_janis.cpp(242): error C2227: left of '->getDate' must point to class/struct/union/generic type
+c:\users\smilicat\documents\github\projekts_3\janis\projekts_3_janis\projekts_3_janis\projekts_3_janis.cpp(290): error C2259: 'Item': cannot instantiate abstract class
+  c:\users\smilicat\documents\github\projekts_3\janis\projekts_3_janis\projekts_3_janis\projekts_3_janis.cpp(290): note: due to following members:
+  c:\users\smilicat\documents\github\projekts_3\janis\projekts_3_janis\projekts_3_janis\projekts_3_janis.cpp(290): note: 'float Item::payment(float,int)': is abstract
+  c:\users\smilicat\documents\github\projekts_3\janis\projekts_3_janis\projekts_3_janis\projekts_3_janis.cpp(109): note: see declaration of 'Item::payment'
+c:\users\smilicat\documents\github\projekts_3\janis\projekts_3_janis\projekts_3_janis\projekts_3_janis.cpp(301): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\smilicat\documents\github\projekts_3\janis\projekts_3_janis\projekts_3_janis\projekts_3_janis.cpp(306): error C2259: 'Item': cannot instantiate abstract class
+  c:\users\smilicat\documents\github\projekts_3\janis\projekts_3_janis\projekts_3_janis\projekts_3_janis.cpp(306): note: due to following members:
+  c:\users\smilicat\documents\github\projekts_3\janis\projekts_3_janis\projekts_3_janis\projekts_3_janis.cpp(306): note: 'float Item::payment(float,int)': is abstract
+  c:\users\smilicat\documents\github\projekts_3\janis\projekts_3_janis\projekts_3_janis\projekts_3_janis.cpp(109): note: see declaration of 'Item::payment'
